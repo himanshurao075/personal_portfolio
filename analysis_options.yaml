@@ -1,0 +1,12 @@
+include: package:flutter_lints/flutter.yaml
+
+analyzer:
+  exclude:
+    - build/**
+
+linter:
+  rules:
+    prefer_single_quotes: true
+    directives_ordering: true
+    sort_constructors_first: true
+    avoid_redundant_argument_values: true

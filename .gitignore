@@ -1,0 +1,11 @@
+.dart_tool/
+.flutter-plugins-dependencies
+.flutter-plugins
+.idea/
+.vscode/
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+.build/

@@ -1,0 +1,47 @@
+Running `(cd /Users/himanshu/.pub-cache/hosted/pub.dev/objective_c-9.3.0/; ANDROID_HOME=/Users/himanshu/Library/Android/sdk TMPDIR=/var/folders/sy/mxc6qcxj7lv_qzfqsy5pzfrc0000gn/T/ PATH=/Applications/Xcode.app/Contents/SharedFrameworks/SwiftBuild.framework/Versions/A/PlugIns/SWBBuildService.bundle/Contents/PlugIns/SWBUniversalPlatformPlugin.bundle/Contents/Frameworks/SWBUniversalPlatform.framework/Resources:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/libexec:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/usr/local/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/local/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/local/bin:/opt/homebrew/opt/openjdk@17/bin:/Users/himanshu/development/flutter/bin:/opt/homebrew/bin:/opt/homebrew/sbin:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin:/opt/pmk/env/global/bin:/Library/Apple/usr/bin HOME=/Users/himanshu /Users/himanshu/development/flutter/bin/cache/dart-sdk/bin/dart --packages=/Users/himanshu/Downloads/himanshu_portfolio/.dart_tool/package_config.json /Users/himanshu/Downloads/himanshu_portfolio/.dart_tool/hooks_runner/objective_c/84fd4fa0ea/hook.dill --config=/Users/himanshu/Downloads/himanshu_portfolio/.dart_tool/hooks_runner/objective_c/84fd4fa0ea/input.json )`.
+INFO: 2026-03-24 00:00:58.363560: Running `/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang --version`.
+
+INFO: 2026-03-24 00:00:58.384628: Running `/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang --version`.
+
+INFO: 2026-03-24 00:00:58.401575: Running: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator26.2.sdk -target arm64-apple-ios-simulator -mios-version-min=13 -c /Users/himanshu/.pub-cache/hosted/pub.dev/objective_c-9.3.0/src/include/dart_api_dl.c -fpic -I src -o /Users/himanshu/Downloads/himanshu_portfolio/.dart_tool/hooks_runner/shared/objective_c/build/84fd4fa0ea/obj/src/include/dart_api_dl.c.o
+
+INFO: 2026-03-24 00:00:58.402092: Running: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator26.2.sdk -target arm64-apple-ios-simulator -mios-version-min=13 -x objective-c -fobjc-arc -c /Users/himanshu/.pub-cache/hosted/pub.dev/objective_c-9.3.0/src/input_stream_adapter.m -fpic -I src -o /Users/himanshu/Downloads/himanshu_portfolio/.dart_tool/hooks_runner/shared/objective_c/build/8INFO: 2026-03-24 00:00:58.402209: Running: /INFO: 2026-03-24 00:00:58.402326: Running: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator26.2.sdk -target arm64-apple-ios-simulator -mios-version-min=13 -x objective-c -fobjc-arc -c /Users/himanshu/.pub-cache/hosted/pub.dev/objective_c-9.3.0/src/observer.m -fpic -I src -o /Users/himanshu/Downloads/himanshu_portfolio/.dart_tool/hooks_runner/shared/objective_c/build/84fd4fa0ea/obj/src/observer.m.o
+
+INFO: 2026-03-24 00:00:58.402619: Running: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator26.2.sdk -target arm64-apple-ios-simulator -mios-version-min=13 -x objective-c -fobjc-arc -c /Users/himanshu/.pub-cache/hosted/pub.dev/objective_c-9.3.0/src/protocol.m -fpic -I src -o /Users/himanshu/Downloads/himanshu_portfolio/.dart_tool/hooks_runner/shared/objective_c/build/84fd4fa0ea/obj/src/protocol.m.o
+INFO: 2026-03-24 00:00:58.402732: Running: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator26.2.sdk -target arm64-apple-ios-simulator -mios-version-min=13 -x objective-c -fobjc-arc -c /Users/himanshu/.pub-cache/hosted/pub.dev/objective_c-9.3.0/src/objective_c_bindings_generated.m -fpic -I src -o /Users/himanshu/Downloads/himanshu_portfolio/.dart_tool/hooks_runner/shared/objective_c/build/84fd4fa0ea/obj/src/objective_c_bindings_generated.m.o
+
+INFO: 2026-03-24 00:00:58.519022: 
+INFO: 2026-03-24 00:00:58.519035: 
+INFO: 2026-03-24 00:00:58.519045: Generated /Users/himanshu/Downloads/himanshu_portfolio/.dart_tool/hooks_runner/shared/objective_c/build/84fd4fa0ea/obj/src/include/dart_api_dl.c.o
+
+INFO: 2026-03-24 00:00:58.521341: 
+INFO: 2026-03-24 00:00:58.521370: 
+INFO: 2026-03-24 00:00:58.521380: Generated /Users/himanshu/Downloads/himanshu_portfolio/.dart_tool/hooks_runner/shared/objective_c/build/84fd4fa0ea/obj/src/observer.m.o
+
+INFO: 2026-03-24 00:00:58.543047: 
+INFO: 2026-03-24 00:00:58.543138: 
+INFO: 2026-03-24 00:00:58.543174: Generated /Users/himanshu/Downloads/himanshu_portfolio/.dart_tool/hooks_runner/shared/objective_c/build/84fd4fa0ea/obj/src/protocol.m.o
+
+INFO: 2026-03-24 00:00:58.634951: 
+INFO: 2026-03-24 00:00:58.634997: 
+INFO: 2026-03-24 00:00:58.635009: Generated /Users/himanshu/Downloads/himanshu_portfolio/.dart_tool/hooks_runner/shared/objective_c/build/84fd4fa0ea/obj/src/ns_number.m.o
+
+INFO: 2026-03-24 00:00:58.640376: 
+INFO: 2026-03-24 00:00:58.640406: 
+INFO: 2026-03-24 00:00:58.640418: Generated /Users/himanshu/Downloads/himanshu_portfolio/.dart_tool/hooks_runner/shared/objective_c/build/84fd4fa0ea/obj/src/objective_c.m.o
+
+INFO: 2026-03-24 00:00:58.642860: 
+INFO: 2026-03-24 00:00:58.642886: 
+INFO: 2026-03-24 00:00:58.642896: Generated /Users/himanshu/Downloads/himanshu_portfolio/.dart_tool/hooks_runner/shared/objective_c/build/84fd4fa0ea/obj/src/input_stream_adapter.m.o
+
+INFO: 2026-03-24 00:00:58.665731: 
+INFO: 2026-03-24 00:00:58.665770: 
+INFO: 2026-03-24 00:00:58.665781: Generated /Users/himanshu/Downloads/himanshu_portfolio/.dart_tool/hooks_runner/shared/objective_c/build/84fd4fa0ea/obj/src/objective_c_bindings_generated.m.o
+
+INFO: 2026-03-24 00:00:58.666086: Running: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -shared -Wl,-encryptable -undefined dynamic_lookup -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator26.2.sdk -target arm64-apple-ios-simulator -mios-version-min=13 /Users/himanshu/Downloads/himanshu_portfolio/.dart_tool/hooks_runner/shared/objective_c/build/84fd4fa0ea/obj/src/include/dart_api_dl.c.o /Users/himanshu/Downloads/himanshu_portfolio/.dart_tool/hooks_runner/shared/objective_c/build/84fd4fa0ea/obj/src/objective_c.c.o /Users/himanshu/Downloads/himanshu_portfolio/.dart_tool/hooks_runner/shared/objective_c/build/84fd4fa0ea/obj/src/input_stream_adapter.m.o /Users/himanshu/Downloads/himanshu_portfolio/.dart_tool/hooks_runner/shared/objective_c/build/84fd4fa0ea/obj/src/objective_c.m.o /Users/himanshu/Downloads/himanshu_portfolio/.dart_tool/hooks_runner/shared/objective_c/build/84fd4fa0ea/obj/src/observer.m.o /Users/himanshu/Downloads/himanshu_portfolio/.dart_tool/hooks_runner/shared/objective_c/build/84fd4fa0ea/obj/src/ns_number.m.o /Users/himanshu/Downloads/himanshu_portfolio/.dart_tool/hooks_runner/shared/objective_c/build/84fd4fa0ea/obj/src/protocol.m.o /Users/himanshu/Downloads/himanshu_portfolio/.dart_tool/hooks_runner/shared/objective_c/build/84fd4fa0ea/obj/src/objective_c_bindings_generated.m.o -o /Users/himanshu/Downloads/himanshu_portfolio/.dart_tool/hooks_runner/shared/objective_c/build/84fd4fa0ea/objective_c.dylib
+
+INFO: 2026-03-24 00:00:58.703322: 
+INFO: 2026-03-24 00:00:58.703407: ld: warning: -undefined dynamic_lookup is deprecated on iOS-simulator
+
+INFO: 2026-03-24 00:00:58.703449: Generated /Users/himanshu/Downloads/himanshu_portfolio/.dart_tool/hooks_runner/shared/objective_c/build/84fd4fa0ea/objective_c.dylib
+
